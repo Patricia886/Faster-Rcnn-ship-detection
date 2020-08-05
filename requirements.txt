@@ -1,0 +1,4 @@
+1.CUDA8.0
+2.CUDNN6.0
+3.tensorflow-gpu1.3.0
+4.gcc.g++4.8.5
